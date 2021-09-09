@@ -1,0 +1,608 @@
+# Translation of AIOSEO - AIOSEO Pro in Spanish (Spain)
+# This file is distributed under the same license as the AIOSEO - AIOSEO Pro package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-05 09:17:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: AIOSEO - AIOSEO Pro\n"
+
+#. Translators: 1 - The type of license (Individual, Business, Agency).
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:315
+msgid "Your %1$s plan is active!"
+msgstr "¡Su plan %1$s está activo!"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:286
+msgid "Learn more about Local SEO"
+msgstr "Aprenda más sobre SEO Local"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:283
+msgid "Activate Local SEO"
+msgstr "Activar SEO Local"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:280
+msgid "The Local SEO module is a premium feature that enables businesses to tell Google about their business, including their business name, address and phone number, opening hours and price range.  This information may be displayed as a Knowledge Graph card or business carousel in the search engine sidebar."
+msgstr "El módulo SEO local es una característica premium que permite a las empresas informar a Google sobre su negocio, incluido su nombre comercial, dirección y número de teléfono, horario de apertura y rango de precios. Esta información puede mostrarse como una tarjeta de Knowledge Graph o un carrusel comercial en la barra lateral del motor de búsqueda."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:277
+msgid "Enable Local SEO on your Site"
+msgstr "Activar SEO Local en su sitio"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:199
+msgid "Learn more about News Sitemaps"
+msgstr "Aprenda más sobre el Mapa del Sitio de Noticias"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:196
+msgid "Activate News Sitemap"
+msgstr "Activar Mapa del Sitio de Noticias"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:193
+msgid "Enable Google News Sitemap on your Site"
+msgstr "Activar Mapa del Sitio de Google News en su sitio"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:208
+msgid "Learn more about Video Sitemaps"
+msgstr "Aprenda más sobre el Mapa del Sitio de Video"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:205
+msgid "Activate Video Sitemap"
+msgstr "Activar Mapa del Sitio de Video"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:202
+msgid "Enable Video Sitemap on your Site"
+msgstr "Activar Mapa del Sitio de Video en su sitio"
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 - The
+#. plugin name ("All in One SEO").
+#: all-in-one-seo-pack-pro/app/Pro/Admin/License.php:324
+msgid "A %1$svalid license key%2$s is required to download updates for %3$s."
+msgstr "Una %1$sclave de licencia válida%2$s es requerida para descargar actualizaciones de %3$s."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:374
+msgid "Contact Page"
+msgstr "Página de contacto"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:371
+msgid "About Us Page"
+msgstr "Página «Acerca de»"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:94
+msgid "Item Page"
+msgstr "Página de elemento"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:91
+msgid "Profile Page"
+msgstr "Página de perfil"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:88
+msgid "Collection Page"
+msgstr "Página de colección"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:85
+msgid "Web Page"
+msgstr "Página web"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:64
+msgid "Real Estate Listing"
+msgstr "Catálogo de inmuebles"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:61
+msgid "QA Page"
+msgstr "Página de preguntas y respuestas"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:58
+msgid "FAQ Page"
+msgstr "Página de FAQ"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:8
+msgid "Publication Name"
+msgstr "Nombre de Publicación"
+
+#. Translators: 1 - "Google Tag Manager account".
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:268
+msgid "Google Tag Manager account"
+msgstr "Cuenta de Google Tag Manager"
+
+#. Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:264
+msgid "This ensures consistency in URL paths reported to Google Analytics.%1$s%2$s"
+msgstr "Esto garantiza la coherencia en las rutas de URL notificadas a Google Analytics.%1$s%2$s"
+
+#. Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:260
+msgid "This enables tracking interactions with the official Facebook and Twitter widgets with Google Analytics.%1$s%2$s"
+msgstr "Esto permite rastrear interacciones con los widgets oficiales de Facebook y Twitter con Google Analytics.%1$s%2$s"
+
+#. Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:256
+msgid "This enables tracking how far down a user scrolls a page with Google Analytics.%1$s%2$s"
+msgstr "Esto permite rastrear cuánto se desplaza un usuario hacia abajo en una página con Google Analytics.%1$s%2$s"
+
+#. Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:252
+msgid "This enables tracking when elements are visible within the viewport with Google Analytics.%1$s%2$s"
+msgstr "Esto permite el rastreo cuando los elementos son visibles dentro de la ventana (viewport) con Google Analytics.%1$s%2$s"
+
+#. Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:248
+msgid "This enables tracking media queries with Google Analytics.%1$s%2$s"
+msgstr "Esto permite realizar un rastreo de las media queries con Google Analytics.%1$s%2$s"
+
+#. Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:244
+msgid "This enables tracking how long pages are in visible state with Google Analytics.%1$s%2$s"
+msgstr "Esto permite realizar un rastreo del tiempo que las páginas están en estado visible con Google Analytics.%1$s%2$s"
+
+#. Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:240
+msgid "This enables tracking URL changes for single pages with Google Analytics.%1$s%2$s"
+msgstr "Esto permite realizar un rastreo de los cambios de URL para páginas individuales con Google Analytics.%1$s%2$s"
+
+#. Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:236
+msgid "This enables tracking events with Google Analytics.%1$s%2$s"
+msgstr "Esto habilita el rastreo de eventos con Google Analytics.%1$s%2$s"
+
+#. Translators: 1 - A link to our documentation, 2 - HTML line break tag.
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:232
+msgid "This enables tracking outbound forms with Google Analytics.%1$s%2$s"
+msgstr "Esto permite rastrear formularios salientes con Google Analytics.%1$s%2$s"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:368
+msgid "Social Settings"
+msgstr "Ajustes sociales"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:365
+msgid "Schema Settings"
+msgstr "Ajustes del schema"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:362
+msgid "Page Analysis"
+msgstr "Análisis de Página"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:359
+msgid "Feature Manager Settings"
+msgstr "Ajustes del Administrador de Funciones"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:356
+msgid "Tools"
+msgstr "Herramientas"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:353
+msgid "SEO Analysis"
+msgstr "Análisis SEO"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:350
+msgid "Redirects"
+msgstr "Redirecciones"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:347
+msgid "Internal Links"
+msgstr "Enlaces Internos"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:344
+msgid "Sitemap Settings"
+msgstr "Configuración del Mapa del Sitio"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:341
+msgid "Social Networks Settings"
+msgstr "Ajustes de Redes Sociales"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:338
+msgid "Search Appearance Settings"
+msgstr "Ajustes de la Apariencia de Búsqueda"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:335
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:332
+msgid "Use Default Settings"
+msgstr "Utilizar la Configuración Predeterminada"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:329
+msgid "Post SEO Settings:"
+msgstr "Configuración SEO de Entradas:"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:326
+msgid "General SEO Settings:"
+msgstr "Ajustes SEO Generales:"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:295
+msgid "Your license key provides access to updates and addons."
+msgstr "Su código de licencia proporciona acceso a actualizaciones y complementos."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:292
+msgid "License Key"
+msgstr "Clave de licencia"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:289
+msgid "Pro"
+msgstr "Pro"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:228
+msgid "There was an error connecting to the licensing API. Please try again later."
+msgstr "Hubo un error al conectarse a la API de licencias. Por favor, inténtelo de nuevo más tarde."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:224
+msgid "This license key has reached the maximum number of activations. Please deactivate it from another site or purchase a new license to continue receiving automatic updates."
+msgstr "Esta clave de licencia ha alcanzado el número máximo de activaciones. Desactívelo desde otro sitio o adquiera una nueva licencia para seguir recibiendo actualizaciones automáticas."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:220
+msgid "The license key provided is disabled. Please use a different key to continue receiving automatic updates."
+msgstr "La clave de licencia proporcionada está desactivada. Por favor, utilice una clave diferente para seguir recibiendo actualizaciones automáticas."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:216
+msgid "The license key provided is invalid. Please use a different key to continue receiving automatic updates."
+msgstr "La clave de licencia proporcionada es inválida. Por favor, utilice una clave diferente para seguir recibiendo actualizaciones automáticas."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:212
+msgid "An unknown error occurred, please try again later."
+msgstr "Ocurrió un error desconocido, por favor inténtelo más tarde."
+
+#. Translators: 1 - The type of license (Individual, Business, Agency), 2 - The
+#. expiration date of the license.
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:323
+msgid "Your license level is %1$s %2$s"
+msgstr "El nivel de su licencia es %1$s %2$s"
+
+#. Translators: 1 - The expiration date of the license.
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:319
+msgid "(expires: %1$s)"
+msgstr "(expira: %1$s)"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:311
+msgid "Enter your license key below to activate %1$s!"
+msgstr "¡Introduzca su clave de licencia abajo para activar %1$s!"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:307
+msgid "A valid license key is required in order to enable Pro features and continue to receive automatic updates."
+msgstr "Se requiere un código de licencia válido para habilitar las funciones Pro y continuar recibiendo actualizaciones automáticas."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:304
+msgid "Deactivate this license key"
+msgstr "Desactivar esta clave de licencia"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:301
+msgid "Connect"
+msgstr "Conectar"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:298
+msgid "Paste your license key here"
+msgstr "Pegue su código de licencia aquí"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:271
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:274
+msgid "Title & Description"
+msgstr "Título y Descripción"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:79
+msgid "News Article"
+msgstr "Artículo de Noticias"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:76
+msgid "Blog Post"
+msgstr "Entrada del Blog"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:73
+msgid "Article"
+msgstr "Artículo"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:70
+msgid "Article Type"
+msgstr "Tipo de Artículo"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:67
+msgid "Schema Type"
+msgstr "Tipo de Esquema"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:82
+msgid "None"
+msgstr "Ninguno"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:55
+msgid "List of custom field names to include in the SEO Page Analysis. Add one per line."
+msgstr "Lista de nombres de campos personalizados para incluir en el Análisis SEO de Página. Agregue uno por línea."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:52
+msgid "Custom Fields"
+msgstr "Campos Personalizados"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:131
+msgid "Learn more about Image SEO"
+msgstr "Aprenda más sobre SEO para Imágenes"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:128
+msgid "Activate Image SEO"
+msgstr "Activar SEO de Imágenes"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:125
+msgid "The Image SEO module is a premium feature that enables you to globally control the Title Attribute and Alt Text for attachment pages and images that are embedded in your content. These can be set based on a specified format, similar to the Title Format settings in the Global Settings menu."
+msgstr "El módulo SEO para Imágenes es una función premium que le permite controlar globalmente el Atributo del Título y el Texto Alternativo para las páginas de adjuntos e imágenes que están incrustadas en su contenido. Estos se pueden establecer en función de un formato específico, similar a la configuración de Formato de Título en el menú Configuración Global."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:121
+msgid "Strip Punctuation for Alt Attributes"
+msgstr "Eliminar Puntuación para Atributos Alt"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:117
+msgid "Click on the tags below to insert variables into your alt tag attribute."
+msgstr "Haga clic en las etiquetas a continuación para insertar variables en su atributo de etiqueta alt."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:113
+msgid "Alt Tag Attribute Format"
+msgstr "Formato de atributo de etiqueta alt"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:109
+msgid "Click on the tags below to insert variables into your title attribute."
+msgstr "Haga clic en las etiquetas a continuación para insertar variables en su atributo de título."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:105
+msgid "Strip Punctuation for Title Attributes"
+msgstr "Eliminar Puntuación para Atributos de Título"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:101
+msgid "Title Attribute Format"
+msgstr "Formato de Atributo de Título"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:97
+msgid "Enable Advanced SEO for Images on your Site"
+msgstr "Habilite SEO Avanzado para Imágenes en su Sitio"
+
+#. Translators: 1 - "embed.ly", 2 - "embed.ly".
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:187
+msgid "By default, we try to provide enriched information about your videos. A lot of video services are supported by default. For those services which aren't supported, we can try to retrieve enriched video information using %1$s. If you want to use this option, you'll need to sign up for a (free) %2$s account and provide the API key you receive."
+msgstr "Por defecto, intentamos proporcionar información enriquecida sobre sus videos. Muchos servicios de video son compatibles por defecto. Para aquellos servicios que no son compatibles, podemos intentar recuperar información de video enriquecida usando %1$s. Si desea utilizar esta opción, deberá registrarse para obtener una cuenta en %2$s (gratuita) y proporcionar la clave API que reciba."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:183
+msgid "Embedly API Key"
+msgstr "Clave de API de Embedly"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:180
+msgid "If you use Wistia in combination with a custom domain, set this to the domain name you use for your Wistia videos. Don't include https: or slashes as they are not needed."
+msgstr "Si usa Wistia en combinación con un dominio personalizado, configúrelo con el nombre de dominio que usa para sus videos de Wistia. No incluya https: o barras, ya que no son necesarias."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:177
+msgid "Wistia Domain"
+msgstr "Dominio de Wistia"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:174
+msgid "This defaults to your theme's content width, but if it's empty, setting a value here will make sure videos are embedded with the right width."
+msgstr "Este valor por defecto es el ancho del contenido de su tema, pero si está vacío, establecer un valor aquí asegurará que los videos estén incrustados con el ancho correcto."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:171
+msgid "Content Width"
+msgstr "Ancho del Contenido"
+
+#. Translators: 1 - "FitVids.js".
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:168
+msgid "Try to make videos responsive using %1$s?"
+msgstr "¿Intenta hacer que los videos sean adaptables con %1$s?"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:164
+msgid "Allow videos to be played directly on other websites, such as Facebook or Twitter."
+msgstr "Permita que los videos se reproduzcan directamente en otros sitios web, como Facebook o Twitter."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:161
+msgid "Embed"
+msgstr "Incrustar"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:158
+msgid "This section allows you to manage your video embeds, such as features for Facebook or making them responsive to automatically fit your content width."
+msgstr "Esta sección le permite administrar sus incrustaciones de video, como las funciones para Facebook o hacerlas adaptables para que se ajusten automáticamente al ancho de su contenido."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:155
+msgid "Video Embed Settings"
+msgstr "Ajustes de Incrustación de Video"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:152
+msgid "Dynamically creates the Video Sitemap instead of using a static file."
+msgstr "Crea dinámicamente el Mapa del Sitio de Video en lugar de usar un archivo estático."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:149
+msgid "Dynamically Generate"
+msgstr "Generar Dinámicamente"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:146
+msgid "Enable this option to look for videos in custom fields as well."
+msgstr "Activa esta opción para buscar también vídeos en campos personalizados."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:140
+msgid "Video Sitemap Settings"
+msgstr "Configuración del Mapa del Sitio de Videos"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:190
+msgid "default"
+msgstr "por defecto"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:49
+msgid "Clear"
+msgstr "Limpiar"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:45
+msgid "No pages or posts found with that title or ID. Try again!"
+msgstr "No se encontraron páginas o entradas con ese título o ID. ¡Inténtalo de nuevo!"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:41
+msgid "Begin typing a title or ID to search for a page or post."
+msgstr "Comience a escribir un título o ID para buscar una página o entrada."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:37
+msgid "Type to search..."
+msgstr "Escribe para buscar..."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:33
+msgid "Priority Score"
+msgstr "Puntuación de prioridad"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:29
+msgid "Exclude Posts / Pages"
+msgstr "Excluir Entradas / Páginas"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:25
+msgid "Advanced Settings"
+msgstr "Ajustes avanzados"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:143
+msgid "Include Custom Fields"
+msgstr "Incluir campos personalizados"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:20
+msgid "Select which Post Types appear in your sitemap."
+msgstr "Elige qué tipos de entradas aparecerán en tu mapa del sitio."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:16
+msgid "Include All Post Types"
+msgstr "Incluir Todos los Tipos De Contenidos"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:12
+msgid "Post Types"
+msgstr "Tipos de entrada"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:5
+msgid "News Sitemap Settings"
+msgstr "Configuración del Mapa del Sitio de Noticias"
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:137
+msgid "You can use this section to add any URLs to your sitemap which aren’t a part of your WordPress installation. For example, if you have a contact form that you would like to be included on your sitemap you can enter the information manually."
+msgstr "Puede usar esta sección para agregar cualquier URL a su mapa del sitio que no sea parte de su instalación de WordPress. Por ejemplo, si tiene un formulario de contacto que le gustaría que se incluyera en su mapa del sitio, puede ingresar la información manualmente."
+
+#: all-in-one-seo-pack-pro/languages/aioseo-pro.php:134
+msgid "Additional Pages"
+msgstr "Páginas adicionales"
+
+#: aioseo-news-sitemap/app/Views/xsl/news.php:21
+msgid "Google News Sitemap"
+msgstr "Mapa del sitio de Google News"
+
+#: all-in-one-seo-pack-pro/app/Pro/Admin/License.php:379
+msgid "Purchase one now."
+msgstr "Compre uno ahora."
+
+#: all-in-one-seo-pack-pro/app/Pro/Admin/License.php:375
+msgid "Manage Licenses"
+msgstr "Administrar licencias"
+
+#: all-in-one-seo-pack-pro/app/Pro/Admin/License.php:369
+msgid "license key"
+msgstr "clave de licencia"
+
+#: all-in-one-seo-pack-pro/app/Pro/Admin/License.php:368
+msgid "Your"
+msgstr "Su"
+
+#: all-in-one-seo-pack-pro/app/Pro/Admin/License.php:357
+msgid "is invalid"
+msgstr "es inválida"
+
+#: all-in-one-seo-pack-pro/app/Pro/Admin/License.php:354
+msgid "is disabled"
+msgstr "está deshabilitada"
+
+#: all-in-one-seo-pack-pro/app/Pro/Admin/License.php:351
+msgid "is expired"
+msgstr "ha expirado"
+
+#. Translators: 1 - Opening HTML link tag, 2 - Closing HTML link tag.
+#: all-in-one-seo-pack-pro/app/Pro/Admin/License.php:343
+msgid "has not been entered. %1$sClick here to enter one now%2$s"
+msgstr "no ha sido introducida. %1$sHaga clic aquí para introducir una ahora%2$s"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: all-in-one-seo-pack-pro/app/Pro/Admin/License.php:303
+msgid "Your license key for %1$s is invalid. The key no longer exists or the user associated with the key has been deleted. Please use a different key to continue receiving automatic updates."
+msgstr ""
+"Su clave de licencia para %1$s no es válida. La clave ya no existe o el usuario asociado a la clave se ha eliminado. Utilice una clave diferente para seguir recibiendo actualizaciones automáticas.\n"
+"\t\t\t\t\t\t\t"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: all-in-one-seo-pack-pro/app/Pro/Admin/License.php:286
+msgid "Your license key for %1$s has been disabled. Please use a different key to continue receiving automatic updates."
+msgstr "Se inhabilitó su clave de licencia para %1$s. Por favor utilice una clave diferente para continuar recibiendo actualizaciones automáticas."
+
+#: all-in-one-seo-pack-pro/app/Pro/Admin/License.php:272
+msgid "Learn More"
+msgstr "Aprender más"
+
+#: all-in-one-seo-pack-pro/app/Pro/Admin/License.php:271
+msgid "Renew Now"
+msgstr "Renovar Ahora"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: all-in-one-seo-pack-pro/app/Pro/Admin/License.php:267
+msgid "An active license is needed to use any of the Pro features of %1$s. It also provides access to new features & addons, plugin updates (including security improvements), and our world class support!"
+msgstr "Se necesita una licencia activa para utilizar cualquiera de las funciones Pro de %1$s. También proporciona acceso a nuevas características y extensiones, actualizaciones de plugins (incluidas mejoras de seguridad) ¡y nuestro soporte de primera clase!"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: all-in-one-seo-pack-pro/app/Pro/Admin/License.php:261
+msgid "Heads up! Your %1$s license has expired."
+msgstr "¡Aviso! Su licencia de %1$s ha expirado."
+
+#. Translators: 1 - Opening link tag, 2 - Closing link tag, 4 - The plugin name
+#. ("All in One SEO").
+#: all-in-one-seo-pack-pro/app/Pro/Admin/License.php:225
+msgid "Please %1$senter and activate%2$s your license key for %3$s to enable automatic updates."
+msgstr "Por favor %1$sintroduzca y active%2$s su clave de licencia para %3$s habilitar actualizaciones automáticas."
+
+#. Translators: 1 - The description of the error.
+#: all-in-one-seo-pack-pro/app/Pro/Admin/SiteHealth.php:118
+msgid "Error message: %1$s"
+msgstr "Mensaje de error: %1$s"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: all-in-one-seo-pack-pro/app/Pro/Admin/SiteHealth.php:114
+msgid "Your server is blocking external requests to aioseo.com, please check your firewall settings or contact your host for more details."
+msgstr "Su servidor está bloqueando las solicitudes externas a aioseo.com, verifique la configuración de su firewall o contacte con su proveedor para obtener más detalles."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: all-in-one-seo-pack-pro/app/Pro/Admin/SiteHealth.php:113
+msgid "The %1$s server is not reachable."
+msgstr "No se puede acceder al servidor %1$s."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: all-in-one-seo-pack-pro/app/Pro/Admin/SiteHealth.php:99
+msgid "The %1$s API is reachable and no connection issues have been detected."
+msgstr "Se puede acceder a la API de %1$s y no se han detectado problemas de conexión."
+
+#: all-in-one-seo-pack-pro/app/Pro/Admin/SiteHealth.php:96
+msgid "Can connect to aioseo.com correctly"
+msgstr "Se puede conectar con aioseo.com correctamente"
+
+#: all-in-one-seo-pack-pro/app/Pro/Admin/SiteHealth.php:71
+msgid "Add License now"
+msgstr "Añadir Licencia ahora"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: all-in-one-seo-pack-pro/app/Pro/Admin/SiteHealth.php:67
+msgid "%1$s is not licensed which means you can't access automatic updates, and other advanced features"
+msgstr "%1$s no tiene licencia, lo que significa que no puede acceder a las actualizaciones automáticas y otras funciones avanzadas."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: all-in-one-seo-pack-pro/app/Pro/Admin/SiteHealth.php:64
+msgid "%1$s is not licensed"
+msgstr "%1$s no tiene licencia"
+
+#. Translators: 1 - The license type.
+#: all-in-one-seo-pack-pro/app/Pro/Admin/SiteHealth.php:59
+msgid "Your license key type for this site is %1$s."
+msgstr "Su tipo de licencia para este sitio es %1$s."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: all-in-one-seo-pack-pro/app/Pro/Admin/SiteHealth.php:56
+msgid "Your %1$s license key is valid."
+msgstr "Su clave de licencia para %1$s es válida."
+
+#: all-in-one-seo-pack-pro/app/Pro/Admin/SiteHealth.php:40
+msgid "AIOSEO Connection"
+msgstr "Conexión AIOSEO"
+
+#: all-in-one-seo-pack-pro/app/Pro/Admin/SiteHealth.php:35
+msgid "AIOSEO License"
+msgstr "Licencia AIOSEO"

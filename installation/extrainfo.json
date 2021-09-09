@@ -1,0 +1,7 @@
+{
+    "host": "www.soymanuel.com",
+    "backup_date": "2021-09-09 08:06:18",
+    "akeeba_version": "7.5.11",
+    "php_version": "7.4.22",
+    "root": "\/var\/www\/vhosts\/soymanuel.com\/httpdocs\/"
+}

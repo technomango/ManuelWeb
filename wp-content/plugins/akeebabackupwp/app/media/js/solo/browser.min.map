@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"browser.min.js",
+"lineCount":6,
+"mappings":"A;;;;;AAMA,GAAsB,WAAtB,GAAI,MAAOA,OAAX,CAEI,IAAIA,OAAS,EAGa,YAA9B,GAAI,MAAOA,OAAP,CAAcC,OAAlB,GAEID,MAFJ,CAEWC,OAFX,CAEqB,EAFrB,CAKAD,OAAA,CAAOC,OAAP,CAAeC,OAAf,CAAyBC,QAAS,EAClC,CACI,IAAIC,EAAYC,QAAZD,CAAqBE,KAArBF,CAA2BG,SAA3BH,CAAqCI,SAArCJ,CAA+CK,KAEjC,aAAlB,GAAIL,CAAJ,GAEIM,KAAA,CAAMV,MAAA,CAAOW,MAAP,CAAcC,IAAd,CAAmBC,CAAnB,CAAqB,8BAArB,CAAN,CAEA,CAAAT,CAAA,CAAY,WAJhB,CAOAU,OAAA,CAAOC,MAAP,CAAcf,MAAd,CAAqBgB,aAArB,CAAmCC,iBAAnC,CAAqDb,CAArD,CAVJ,CAaAJ,OAAA,CAAOW,MAAP,CAAcO,aAAd,CAA4B,QAAS,EACrC,CACIlB,MAAA,CAAOW,MAAP,CAAcQ,gBAAd,CAA+B,yBAA/B,CAA0D,OAA1D,CAAmE,QAAS,CAACC,CAAD,CAC5E,CACIA,CAAA,CAAEC,cAAF,EACArB,OAAA,CAAOC,OAAP,CAAeC,OAAf,EAEA,OAAO,CAAA,CAJX,CADA,CADJ,CADA;",
+"sources":["../../uncompressed/js/solo/browser.js"],
+"names":["akeeba","Browser","useThis","akeeba.Browser.useThis","rawFolder","document","forms","adminForm","folderraw","value","alert","System","Text","_","window","parent","Configuration","onBrowserCallback","documentReady","addEventListener","e","preventDefault"]
+}

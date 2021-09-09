@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /wp-backup/
+Sitemap: https://www.soymanuel.com/sitemap_index.xml

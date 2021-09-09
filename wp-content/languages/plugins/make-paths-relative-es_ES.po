@@ -1,0 +1,224 @@
+# Translation of Plugins - Make Paths Relative - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Make Paths Relative - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-11 13:47:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Make Paths Relative - Stable (latest release)\n"
+
+#: admin/class-make-paths-relative-admin.php:201
+msgid "Term Permalinks"
+msgstr "Enlaces permanentes de los términos"
+
+#: admin/class-make-paths-relative-admin.php:401
+msgid ""
+"This plugin doesn't collects/store any user related information.\n"
+"\n"
+"      To have any kind of further query please feel free to\n"
+"      <a href=\"%s\" target=\"_blank\">contact us</a>."
+msgstr ""
+"Este plugin no recopila/almacena ninguna información relacionada con los usuarios.\n"
+"\n"
+"      Para cualquier consulta adicional, por favor, no dudes en\n"
+"      <a href=\"%s\" target=\"_blank\">contactar con nosotros</a>."
+
+#: admin/class-make-paths-relative-admin.php:373
+msgid "<a href=\"%s\" title=\"Contact\">Contact</a>"
+msgstr "<a href=\"%s\" title=\"Contacto\">Contacto</a>"
+
+#: admin/class-make-paths-relative-about.php:115
+msgid "HTTP Auth"
+msgstr "Autorización HTTP"
+
+#: admin/class-make-paths-relative-admin.php:377
+msgid "<a href=\"%s\" title=\"Settings\">Settings</a>"
+msgstr "<a href=\"%s\" title=\"Ajustes\">Ajustes</a>"
+
+#: admin/class-make-paths-relative-admin.php:369
+msgid "<a href=\"%s\" title=\"About\">About</a>"
+msgstr "<a href=\"%s\" title=\"Acerca de\">Acerca de</a>"
+
+#: admin/class-make-paths-relative-admin.php:343
+msgid "Make Paths Relative version %s by <a href=\"%s\" title=\"YAS Global Website\" target=\"_blank\">YAS Global</a> - <a href=\"%s\" title=\"Support forums\" target=\"_blank\">Support forums</a> - Follow on Twitter: <a href=\"%s\" title=\"Follow YAS Global on Twitter\" target=\"_blank\">YAS Global</a>"
+msgstr "Make Paths Relative versión %s de <a href=\"%s\" title=\"YAS Global Website\" target=\"_blank\">YAS Global</a> - <a href=\"%s\" title=\"Foros de soporte\" target=\"_blank\">Foros de soporte</a> - Síguenos en Twitter: <a href=\"%s\" title=\"Sigue a YAS Global en Twitter\" target=\"_blank\">YAS Global</a>"
+
+#: admin/class-make-paths-relative-about.php:146
+msgid "On uploading  any image,  let's say services.png, WordPress creates the <strong>attachment post</strong> with the permalink of <strong>/services/</strong> and doesn't allow you to use that permalink to point your page. In this case, we come up with this great solution."
+msgstr "Al subir cualquier imagen, por ejemplo, «services.png», WordPress crea un <strong>adjunto en la entrada</strong> con un enlace permanente de <strong>/services/</strong> y no te permite usar ese enlace permanente apuntando a tu página. En este caso, tenemos esta gran solución."
+
+#: admin/class-make-paths-relative-about.php:145
+msgid "Media Post Permalink"
+msgstr "Enlace permanente de los medios de las entradas"
+
+#: admin/class-make-paths-relative-about.php:136
+msgid "It removes some meta data from the wordpress header so, your header keeps clean of useless information like <strong>shortlink</strong>, <strong>rsd_link</strong>, <strong>wlwmanifest_link</strong>, <strong>emoji_scripts</strong>, <strong>wp_embed</strong>, <strong>wp_json</strong>, <strong>emoji_styles</strong>, <strong>generator</strong> and so on."
+msgstr "Elimina algunos datos meta de la cabecera de WordPress para que tu cabecera se mantenga limpia de información no útil como <strong>shortlink</strong>, <strong>rsd_link</strong>, <strong>wlwmanifest_link</strong>, <strong>emoji_scripts</strong>, <strong>wp_embed</strong>, <strong>wp_json</strong>, <strong>emoji_styles</strong>, <strong>generator</strong>, etc."
+
+#: admin/class-make-paths-relative-about.php:135
+msgid "Remove Links and Scripts"
+msgstr "Eliminar enlaces y scripts"
+
+#: admin/class-make-paths-relative-about.php:126
+msgid "Simply the easiest solution to add valid schema.org as a JSON script in the head of posts and pages. It provides you multiple <strong>SCHEMA</strong> types like Article, News Article, Organization, and Website Schema."
+msgstr "La solución más sencilla para añadir un schema.org válido como un script JSON en la cabecera de las entradas y páginas. Te proporciona varios tipos de <strong>SCHEMA</strong>, como artículos, artículos de noticias, organización y esquema web."
+
+#: admin/class-make-paths-relative-about.php:125
+msgid "JSON Structuring Markup"
+msgstr "Marcaje estructurado JSON"
+
+#: admin/class-make-paths-relative-about.php:116
+msgid "Allows you apply <strong>HTTP Auth</strong> on your site. You can apply HTTP Authentication all over the site or only the admin pages. It helps to stop crawling on your site while on development or persist the <strong>Brute Attacks</strong> by locking the Admin Pages."
+msgstr "Te permite aplicar <strong>autorización HTTP</strong> a tu sitio. Puedes aplicar identificación HTTP en todo el sitio o solo en las páginas de administración. Ayuda a detener el rastreo de tu sitio mientras estás en desarrollo o <strong>ataques de fuerza bruta</strong> persistentes, bloqueando las páginas de administración."
+
+#: admin/class-make-paths-relative-about.php:106
+msgid "Simply the easiest solution to add valid schema.org as a JSON script in the head of blog posts or articles. You can choose the schema either to show with the type of Article or NewsArticle from the settings page."
+msgstr "La solución más sencilla para añadir un schema.org válido como un script JSON en la cabecera de las entradas o artículos del blog. Puedes elegir el esquema tanto para mostrar con el tipo de artículo o artículo de noticias desde la página de ajustes."
+
+#: admin/class-make-paths-relative-about.php:105
+msgid "SCHEMA for Article"
+msgstr "SCHEMA para los artículos"
+
+#: admin/class-make-paths-relative-about.php:96
+msgid "Secure your site from the <strong>XSS Attacks</strong> so, your users won't lose any kind of information or not redirected to any other site by visiting your site with the <strong>malicious code</strong> in the URL or so. In this way, users can open their site URLs without any hesitation."
+msgstr "Protege tu sitio de <strong>ataques XSS</strong> para que tus usuarios no pierdan ningún tipo de información o sean redirigidos desde tu sitio a cualquier otro con <strong>código malicioso</strong> en la URL o similar. De esta manera, los usuarios pueden abrir las URL de su sitio sin preocupaciones."
+
+#: admin/class-make-paths-relative-about.php:95
+msgid "Prevent XSS Vulnerability"
+msgstr "Evitar vulnerabilidades XSS"
+
+#: admin/class-make-paths-relative-about.php:86
+msgid "Allows you to either define different Permalink Structure or define same Permalink Structure for default and Custom PostTypes, Taxonomies. The plugin automatically creates the user-friendly URLs as per your defined structure that can be edited from the single post/page."
+msgstr "Te permite definir una estructura de enlaces permanentes diferente o definir la misma estructura de enlaces permanentes por defecto y para los tipos de contenido personalizado y taxonomías. El plugin crea automáticamente URL amigables según la tu estructura definida que pueden ser editadas desde cada entrada o página individual."
+
+#: admin/class-make-paths-relative-about.php:85
+msgid "Permalinks Customizer"
+msgstr "Personalizador de enlaces permanentes"
+
+#: admin/class-make-paths-relative-about.php:76
+msgid "Custom Permalinks helps you to make your permalinks customized for <em>individual</em> posts, pages, tags or categories. It will <strong>NOT</strong> apply whole permalink structures, or automatically apply a category's custom permalink to the posts within that category."
+msgstr "Los enlaces permanentes personalizados te ayudan a crear tus enlaces permanentes personalizados para entradas, páginas, etiquetas o categorías <em>individuales</em>. <strong>NO</strong> se aplicará a todas las estructuras de enlaces permanentes o se aplicará automáticamente un enlace permanente personalizado de una categoría a las entradas de esa categoría."
+
+#: admin/class-make-paths-relative-about.php:75
+msgid "Custom Permalinks"
+msgstr "Enlaces permanentes personalizados"
+
+#: admin/class-make-paths-relative-about.php:69
+msgid "Our List of Plugins provides the services which help you to manage your site URLs(Permalinks), Prevent your site from XSS Attacks, Brute force attacks, increase your site visitors by adding Structured JSON Markup and so on."
+msgstr "Nuestra lista de plugins proporciona los servicios que te ayudan a gestionar las URL de tu sitio (enlaces permanentes), evitar los ataques XSS a tu sitio, ataques de fuerza bruta, a aumentar los visitantes de tu sitrio añadiendo el marcaje JSON estructurado, etc."
+
+#: admin/class-make-paths-relative-about.php:68
+msgid "More from YAS Global"
+msgstr "Más de YAS Global"
+
+#: admin/class-make-paths-relative-about.php:59
+msgid "To support future development and help to make it even better just leaving us a <a href=\"%s\" title=\"Make Paths Relative Rating\" target=\"_blank\">%s</a> rating with a nice message to me :)"
+msgstr "Para apoyar el desarrollo futuro y ayudar a hacerlo incluso aún mejor, déjanos una <a href=\"%s\" title=\"Valoración de Make Paths Relative\" target=\"_blank\">%s</a> valoración con un amable mensaje para mi :)"
+
+#: admin/class-make-paths-relative-about.php:58
+msgid "Thank you for choosing Make Paths Relative! We hope that your experience with our plugin for making your URLs from absolute to a relative is quick and easy."
+msgstr "¡Gracias por elegir Make Path Relative! Esperamos que tu experiencia con nuestro plugin para convertir URLs absolutas en relativas sea rápida y sencilla."
+
+#: admin/class-make-paths-relative-about.php:29
+msgid "Check it out"
+msgstr "Echa un vistazo"
+
+#: admin/class-make-paths-relative-admin.php:183
+msgid "Page Permalinks"
+msgstr "Enlaces permanentes de páginas"
+
+#: admin/class-make-paths-relative-admin.php:284
+msgid "Select the PostTypes to exclude it."
+msgstr "Selecciona los tipos de contenido a excluir."
+
+#: admin/class-make-paths-relative-admin.php:282
+msgid "Exclude Posts"
+msgstr "Excluir las entradas"
+
+#. Plugin URI of the plugin
+msgid "https://www.yasglobal.com/web-design-development/wordpress/make-paths-relative/"
+msgstr "https://www.yasglobal.com/web-design-development/wordpress/make-paths-relative/"
+
+#. Author of the plugin
+msgid "YAS Global Team"
+msgstr "El Equipo de YAS Global"
+
+#. Description of the plugin
+msgid "This plugin converts the URL(Links) to relative instead of absolute."
+msgstr "Este plugin convierte las URL (enlaces) a relativas en vez de absolutas."
+
+#: admin/class-make-paths-relative-admin.php:242
+#: admin/class-make-paths-relative-admin.php:309
+msgid "Save Changes"
+msgstr "Guardar los cambios"
+
+#: admin/class-make-paths-relative-admin.php:235
+msgid "Image Paths"
+msgstr "Rutas de imágenes"
+
+#: admin/class-make-paths-relative-admin.php:229
+msgid "Make Image Paths Relative"
+msgstr "Hacer las rutas de las imágenes relativas"
+
+#: admin/class-make-paths-relative-admin.php:221
+msgid "Styles src"
+msgstr "src de estilos"
+
+#: admin/class-make-paths-relative-admin.php:215
+msgid "Scripts src"
+msgstr "src de scripts"
+
+#: admin/class-make-paths-relative-admin.php:209
+msgid "Make Scripts and Styles Relative"
+msgstr "Hacer los scripts y estilos relativos"
+
+#: admin/class-make-paths-relative-admin.php:195
+msgid "Author Permalinks"
+msgstr "Enlaces permanentes de autores"
+
+#: admin/class-make-paths-relative-admin.php:189
+msgid "Archive Permalinks"
+msgstr "Enlaces permanentes del archivo"
+
+#: admin/class-make-paths-relative-admin.php:177
+msgid "Post Permalinks"
+msgstr "Enlaces permanentes de entradas"
+
+#: admin/class-make-paths-relative-admin.php:171
+msgid "Make Permalinks Relative"
+msgstr "Hacer los enlaces permanentes relativos"
+
+#: admin/class-make-paths-relative-admin.php:163
+msgid "Leave the field empty to use the <strong>%s</strong> address"
+msgstr "Dejar el campo vacío para usar la dirección <strong>%s</strong>"
+
+#: admin/class-make-paths-relative-admin.php:162
+msgid "Default : %s"
+msgstr "Por defecto: %s"
+
+#: admin/class-make-paths-relative-admin.php:157
+msgid "Site Address :"
+msgstr "Dirección del sitio:"
+
+#: admin/class-make-paths-relative-admin.php:151
+msgid "Define Site Address"
+msgstr "Definir la dirección del sitio"
+
+#: admin/class-make-paths-relative-admin.php:147
+msgid "Select which paths you want to make relative."
+msgstr "Selecciona qué rutas quieres hacer relativas."
+
+#. Plugin Name of the plugin
+#: admin/class-make-paths-relative-about.php:28
+#: admin/class-make-paths-relative-admin.php:146
+msgid "Make Paths Relative"
+msgstr "Make Paths Relative"
+
+#: admin/class-make-paths-relative-admin.php:59
+#: admin/class-make-paths-relative-admin.php:261
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes los permisos suficientes para acceder a esta página."

@@ -1,0 +1,587 @@
+# Copyright (C) 2020 Ultimate Member
+# This file is distributed under the same license as the Ultimate Member - User Photos plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - User Photos 2.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/um-user-photos\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-12-16T16:26:30+02:00\n"
+"PO-Revision-Date: 2020-12-22 16:06+0200\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Domain: um-user-photos\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#. Plugin Name of the plugin
+msgid "Ultimate Member - User Photos"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://ultimatemember.com/extensions/user-photos"
+msgstr ""
+
+#. Description of the plugin
+msgid "Let users add albums and photos"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ultimate Member"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://ultimatemember.com/"
+msgstr ""
+
+#: includes/admin/class-admin.php:39
+msgid "User Photos License Key"
+msgstr ""
+
+#: includes/admin/class-admin.php:47 includes/admin/class-admin.php:168
+#: includes/core/class-user-photos-common.php:34
+#: includes/core/class-user-photos-common.php:35
+#: includes/core/class-user-photos-common.php:61
+msgid "User Photos"
+msgstr ""
+
+#: includes/admin/class-admin.php:54 includes/admin/class-admin.php:68
+msgid "No. of columns"
+msgstr ""
+
+#: includes/admin/class-admin.php:55 includes/admin/class-admin.php:69
+msgid "2 columns"
+msgstr ""
+
+#: includes/admin/class-admin.php:56 includes/admin/class-admin.php:70
+msgid "3 columns"
+msgstr ""
+
+#: includes/admin/class-admin.php:57 includes/admin/class-admin.php:71
+msgid "4 columns"
+msgstr ""
+
+#: includes/admin/class-admin.php:58 includes/admin/class-admin.php:72
+msgid "5 columns"
+msgstr ""
+
+#: includes/admin/class-admin.php:59 includes/admin/class-admin.php:73
+msgid "6 columns"
+msgstr ""
+
+#: includes/admin/class-admin.php:61
+msgid "Album columns"
+msgstr ""
+
+#: includes/admin/class-admin.php:75
+msgid "Photo columns"
+msgstr ""
+
+#: includes/admin/class-admin.php:82
+msgid "Single row"
+msgstr ""
+
+#: includes/admin/class-admin.php:83
+msgid "2 rows"
+msgstr ""
+
+#: includes/admin/class-admin.php:84
+msgid "3 rows"
+msgstr ""
+
+#: includes/admin/class-admin.php:85
+msgid "4 rows"
+msgstr ""
+
+#: includes/admin/class-admin.php:86
+msgid "5 rows"
+msgstr ""
+
+#: includes/admin/class-admin.php:87
+msgid "6 rows"
+msgstr ""
+
+#: includes/admin/class-admin.php:89
+msgid "Photo rows"
+msgstr ""
+
+#: includes/admin/class-admin.php:95
+msgid "Default : 350 x 350"
+msgstr ""
+
+#: includes/admin/class-admin.php:96
+msgid "Album Cover size"
+msgstr ""
+
+#: includes/admin/class-admin.php:97 includes/admin/class-admin.php:105
+msgid "You will need to regenerate thumbnails once this value is changed"
+msgstr ""
+
+#: includes/admin/class-admin.php:103
+msgid "Default : 250 x 250"
+msgstr ""
+
+#: includes/admin/class-admin.php:104
+msgid "Photo thumbnail size"
+msgstr ""
+
+#: includes/admin/class-admin.php:111
+msgid "Disable cover photo"
+msgstr ""
+
+#: includes/admin/class-admin.php:112
+msgid "Album cover field will be hidden."
+msgstr ""
+
+#: includes/admin/class-admin.php:118
+msgid "Disable title"
+msgstr ""
+
+#: includes/admin/class-admin.php:119
+msgid "Title field will be hidden."
+msgstr ""
+
+#: includes/admin/class-admin.php:125 templates/modal/edit-image.php:40
+msgid "Disable comments"
+msgstr ""
+
+#: includes/admin/class-admin.php:126
+msgid "Disable comment & Like feature"
+msgstr ""
+
+#: includes/admin/class-admin.php:127
+msgid "Disable comments and like features"
+msgstr ""
+
+#: includes/admin/templates/role/photos.php:15
+msgid "Enable photos feature?"
+msgstr ""
+
+#: includes/admin/templates/role/photos.php:16
+msgid "Can this role have user photos feature?"
+msgstr ""
+
+#: includes/core/class-user-photos-account.php:31
+msgid "My Photos"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:321
+#: includes/core/class-user-photos-ajax.php:506
+#: includes/core/class-user-photos-ajax.php:689
+#: includes/core/class-user-photos-ajax.php:764
+#: includes/core/class-user-photos-ajax.php:838
+#: includes/core/class-user-photos-ajax.php:914
+msgid "Invalid nonce"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:343
+#: includes/core/class-user-photos-ajax.php:527
+msgid "Album title is required"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:352
+msgid "files are not allowed"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:363
+#: includes/core/class-user-photos-ajax.php:537
+#: includes/core/class-user-photos-ajax.php:542
+#: includes/core/class-user-photos-ajax.php:705
+#: includes/core/class-user-photos-ajax.php:710
+#: includes/core/class-user-photos-ajax.php:777
+#: includes/core/class-user-photos-ajax.php:784
+#: includes/core/class-user-photos-ajax.php:923
+#: includes/core/class-user-photos-ajax.php:1000
+msgid "Invalid request"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:790
+msgid "Title is required"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:818
+msgid "Update successfull"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:1004
+msgid ""
+"Your download could not be created. It looks like you do not have ZipArchive "
+"installed on your server."
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:1053
+msgid "Nothing to download"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:1099
+msgid "Your image is invalid!"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:1115
+msgid "Your image is invalid or too large!"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:1142
+#: includes/core/class-user-photos-ajax.php:1174
+msgid "You must login to like"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:1208
+msgid "Login to post a comment"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:1334
+msgid "Invalid Image ID"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:1421
+msgid "Comment updated"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:32
+msgctxt "Post Type General Name"
+msgid "User Photos"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:33
+msgctxt "Post Type Singular Name"
+msgid "User Album"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:36
+msgid "Item Archives"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:37
+msgid "Item Attributes"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:38
+msgid "Parent Item:"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:39
+msgid "All Items"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:40
+msgid "Add New Item"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:41
+msgid "Add New"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:42
+msgid "New Item"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:43
+msgid "Edit Item"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:44
+msgid "Update Item"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:45
+msgid "View Item"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:46
+msgid "View Items"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:47
+msgid "Search Item"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:48
+msgid "Not found"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:49
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:50
+msgid "Album Cover"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:51
+msgid "Set album cover"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:52
+msgid "Remove album cover"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:53
+msgid "Use as album cover"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:54
+msgid "Insert into item"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:55
+msgid "Uploaded to this item"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:56
+msgid "Items list"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:57
+msgid "Items list navigation"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:58
+msgid "Filter items list"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:62
+msgid "Image gallery for Ultimate member Users"
+msgstr ""
+
+#: includes/core/class-user-photos-profile.php:38
+#: includes/core/class-user-photos-profile.php:59
+msgid "Photos"
+msgstr ""
+
+#: includes/core/class-user-photos-profile.php:58
+msgid "Albums"
+msgstr ""
+
+#: includes/core/um-user-photos-init.php:231
+msgid "%s min"
+msgstr ""
+
+#: includes/core/um-user-photos-init.php:233
+msgid "%s mins"
+msgstr ""
+
+#: includes/core/um-user-photos-init.php:242
+msgid "%s hr"
+msgstr ""
+
+#: includes/core/um-user-photos-init.php:244
+msgid "%s hrs"
+msgstr ""
+
+#: includes/core/um-user-photos-init.php:253
+msgid "Yesterday at %s"
+msgstr ""
+
+#: includes/core/um-user-photos-init.php:255
+#: includes/core/um-user-photos-init.php:260
+#: includes/core/um-user-photos-init.php:264
+#: includes/core/um-user-photos-init.php:268
+msgid "%s at %s"
+msgstr ""
+
+#: includes/core/um-user-photos-notifications.php:78
+msgid "User Photos - Album Email"
+msgstr ""
+
+#: includes/core/um-user-photos-notifications.php:81
+msgid ""
+"Send a notification to admin when user create, delete ot update an album"
+msgstr ""
+
+#: templates/account.php:17
+msgid ""
+"Once photos and albums are deleted, they are deleted permanently and cannot "
+"be recovered."
+msgstr ""
+
+#: templates/account.php:24
+msgid "Download my photos"
+msgstr ""
+
+#: templates/account.php:36
+msgid "Are you sure to delete all your albums & photos?"
+msgstr ""
+
+#: templates/account.php:37
+msgid "Delete all my albums & photos"
+msgstr ""
+
+#: templates/album-head.php:25
+msgid "Back"
+msgstr ""
+
+#: templates/album-head.php:56
+msgid "Edit album"
+msgstr ""
+
+#: templates/album-head.php:62 templates/album-head.php:64
+#: templates/album-head.php:71
+msgid "Delete album"
+msgstr ""
+
+#: templates/albums.php:44 templates/gallery.php:26
+msgid "%s Photo"
+msgid_plural "%s Photos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/caption.php:34 templates/modal/edit-image.php:33
+#: templates/modal/edit-image.php:34 templates/single-album.php:37
+#: templates/single-album.php:52
+msgid "Related link"
+msgstr ""
+
+#: templates/caption.php:78 templates/caption.php:83 templates/comment.php:76
+msgid "Likes"
+msgstr ""
+
+#: templates/caption.php:90
+msgid "Comments"
+msgstr ""
+
+#: templates/caption.php:109 templates/caption.php:114 templates/comment.php:64
+#: templates/comment.php:68
+msgid "Like"
+msgstr ""
+
+#: templates/caption.php:109 templates/caption.php:117 templates/comment.php:64
+#: templates/comment.php:68
+msgid "Unlike"
+msgstr ""
+
+#: templates/caption.php:123 templates/comment-form.php:29
+msgid "Comment"
+msgstr ""
+
+#: templates/comment-form.php:22
+msgid "Write a reply..."
+msgstr ""
+
+#: templates/comment-form.php:25 templates/modal/edit-comment.php:21
+msgid "Write a comment..."
+msgstr ""
+
+#: templates/comment.php:40
+msgid ""
+"Comment hidden. <a href=\"javascript:void(0);\" class=\"um-link\">Show this "
+"comment</a>"
+msgstr ""
+
+#: templates/comment.php:88
+msgid "Reply"
+msgstr ""
+
+#: templates/comment.php:108
+msgid "Edit comment"
+msgstr ""
+
+#: templates/comment.php:111
+msgid "Edit"
+msgstr ""
+
+#: templates/comment.php:115
+msgid "Delete comment"
+msgstr ""
+
+#: templates/comment.php:115
+msgid "Are you sure you want to delete this comment?"
+msgstr ""
+
+#: templates/comment.php:115 templates/modal/delete-album.php:31
+#: templates/modal/delete-comment.php:30
+msgid "Delete"
+msgstr ""
+
+#: templates/gallery-head.php:19 templates/gallery-head.php:25
+msgid "New Album"
+msgstr ""
+
+#: templates/gallery.php:46 templates/photos.php:42
+#: templates/single-album.php:90
+msgid "Nothing to display"
+msgstr ""
+
+#: templates/modal/add-album.php:18
+msgid "is too large. File should be less than "
+msgstr ""
+
+#: templates/modal/add-album.php:24 templates/modal/edit-album.php:28
+msgid "Album title"
+msgstr ""
+
+#: templates/modal/add-album.php:34 templates/modal/edit-album.php:38
+msgid "Album cover"
+msgstr ""
+
+#: templates/modal/add-album.php:45
+msgid "Publish"
+msgstr ""
+
+#: templates/modal/add-album.php:48 templates/modal/edit-album.php:84
+msgid "Select photos"
+msgstr ""
+
+#: templates/modal/add-album.php:51 templates/modal/delete-album.php:35
+#: templates/modal/delete-comment.php:34 templates/modal/edit-album.php:87
+#: templates/modal/edit-comment.php:28 templates/modal/edit-image.php:46
+msgid "Cancel"
+msgstr ""
+
+#: templates/modal/delete-album.php:19
+msgid "Are you sure to delete this album?"
+msgstr ""
+
+#: templates/modal/edit-album.php:22
+msgid " is too large. File should be less than "
+msgstr ""
+
+#: templates/modal/edit-album.php:64
+msgid "Delete photo"
+msgstr ""
+
+#: templates/modal/edit-album.php:65
+msgid "Sure to delete photo?"
+msgstr ""
+
+#: templates/modal/edit-album.php:82 templates/modal/edit-comment.php:26
+#: templates/modal/edit-image.php:45
+msgid "Update"
+msgstr ""
+
+#: templates/modal/edit-image.php:23 templates/modal/edit-image.php:24
+msgid "Image title"
+msgstr ""
+
+#: templates/modal/edit-image.php:28 templates/modal/edit-image.php:29
+msgid "Image caption"
+msgstr ""
+
+#: templates/modal/likes.php:13
+msgid "Nobody has liked this photo yet."
+msgstr ""
+
+#: templates/modal/likes.php:32
+msgid "Close"
+msgstr ""
+
+#: templates/photos.php:33
+msgid "Load more"
+msgstr ""
+
+#: templates/single-album.php:56 templates/single-album.php:59
+msgid "Edit Image"
+msgstr ""
+
+#: templates/social-activity/new-album.php:13
+msgid "created a new photo album"
+msgstr ""
+
+#: um-user-photos.php:42 um-user-photos.php:58
+msgid ""
+"The <strong>%s</strong> extension requires the Ultimate Member plugin to be "
+"activated to work properly. You can download it <a href=\"https://wordpress."
+"org/plugins/ultimate-member\">here</a>"
+msgstr ""

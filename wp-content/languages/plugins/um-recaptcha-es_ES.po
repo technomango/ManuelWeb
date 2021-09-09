@@ -1,0 +1,237 @@
+# Translation of Plugins - Ultimate Member &#8211; reCAPTCHA - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Ultimate Member &#8211; reCAPTCHA - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-21 06:59:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Ultimate Member &#8211; reCAPTCHA - Stable (latest release)\n"
+
+#: includes/admin/templates/form/login_recaptcha.php:38
+#: includes/admin/templates/form/register_recaptcha.php:35
+msgid "reCAPTCHA score"
+msgstr "Puntuación de reCAPTCHA"
+
+#: includes/admin/class-recaptcha-admin.php:151
+msgid "Consider answers with a score >= to the specified as safe. Set the score in the 0 to 1 range. E.g. 0.5"
+msgstr "Ten en cuenta las respuestas con una puntuación >= a la especificada como segura. Establece la puntuación en el rango de 0 a 1. Por ejemplo, 0.5"
+
+#: includes/admin/class-recaptcha-admin.php:150
+msgid "reCAPTCHA Score"
+msgstr "Puntuación de reCAPTCHA"
+
+#: includes/core/actions/um-recaptcha-form.php:120
+msgid "reCAPTCHA: it is very likely a bot."
+msgstr "reCAPTCHA: es muy probable que sea un bot."
+
+#: includes/admin/class-recaptcha-admin.php:127
+msgid "See <a href=\"https://g.co/recaptcha/sitetypes\" target=\"_blank\">Site Types</a> for more details."
+msgstr "Mira los <a href=\"https://g.co/recaptcha/sitetypes\" target=\"_blank\">tipos de sitios</a> para más detalles."
+
+#: includes/admin/class-recaptcha-admin.php:124
+msgid "reCAPTCHA v3"
+msgstr "reCAPTCHA v3"
+
+#: includes/admin/class-recaptcha-admin.php:123
+msgid "reCAPTCHA v2"
+msgstr "reCAPTCHA v2"
+
+#: includes/admin/class-recaptcha-admin.php:121
+msgid "Choose the type of reCAPTCHA for this site key. A site key only works with a single reCAPTCHA site type."
+msgstr "Elige el tipo de reCAPTCHA para la clave de este sitio. Una clave del sitio solo funciona con un único tipo de sitio de reCAPTCHA."
+
+#: includes/admin/class-recaptcha-admin.php:120
+msgid "reCAPTCHA type"
+msgstr "Tipo de reCAPTCHA"
+
+#: includes/core/actions/um-recaptcha-form.php:128
+msgid "The response is no longer valid: either is too old or has been used previously."
+msgstr "La respuesta ya no es válida: es muy antigua o ha sido usada anteriormente."
+
+#: includes/core/actions/um-recaptcha-form.php:127
+msgid "The request is invalid or malformed."
+msgstr "La respuesta no es válida o está mal formada."
+
+#: um-recaptcha.php:43 um-recaptcha.php:59
+msgid "The <strong>%s</strong> extension requires the Ultimate Member plugin to be activated to work properly. You can download it <a href=\"https://wordpress.org/plugins/ultimate-member\">here</a>"
+msgstr "Para funcionar correctamente, la extensión <strong>%s</strong> necesita que esté activado el plugin Ultimate Member. Puedes descargarlo <a href=\"https://es.wordpress.org/plugins/ultimate-member\">aquí</a>"
+
+#: includes/core/actions/um-recaptcha-form.php:92
+msgid "Please confirm you are not a robot"
+msgstr "Por favor, confirma que no eres un robot"
+
+#: includes/core/actions/um-recaptcha-form.php:126
+msgid "The response parameter is invalid or malformed."
+msgstr "El parámetro de respuesta no es válido o está mal formado."
+
+#: includes/core/actions/um-recaptcha-form.php:125
+msgid "The response parameter is missing."
+msgstr "Falta el parámetro de respuesta."
+
+#: includes/core/actions/um-recaptcha-form.php:124
+msgid "The secret parameter is invalid or malformed."
+msgstr "El parámetro secreto no es válido o está mal formado."
+
+#: includes/core/actions/um-recaptcha-form.php:123
+msgid "The secret parameter is missing."
+msgstr "Falta el parámetro secreto."
+
+#: includes/admin/class-recaptcha-admin.php:294
+msgid "Display the google Google reCAPTCHA on password reset form."
+msgstr "Mostrar el reCAPTCHA de Google en el formulario de restablecimiento de la contraseña."
+
+#: includes/admin/class-recaptcha-admin.php:293
+msgid "Enable Google reCAPTCHA on password reset form"
+msgstr "Activar el reCAPTCHA de Google en el formulario de restablecimiento de la contraseña."
+
+#: includes/admin/class-recaptcha-admin.php:284
+msgid "Invisible"
+msgstr "Invisible"
+
+#: includes/admin/class-recaptcha-admin.php:283
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/admin/class-recaptcha-admin.php:282
+msgid "Compact"
+msgstr "Compacto"
+
+#: includes/admin/class-recaptcha-admin.php:279
+msgid "Size"
+msgstr "Tamaño"
+
+#: includes/admin/class-recaptcha-admin.php:271
+msgid "Light"
+msgstr "Claro"
+
+#: includes/admin/class-recaptcha-admin.php:270
+msgid "Dark"
+msgstr "Oscuro"
+
+#: includes/admin/class-recaptcha-admin.php:268
+msgid "Select a color theme of the widget."
+msgstr "Selecciona un tema de color para el widget."
+
+#: includes/admin/class-recaptcha-admin.php:267
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/admin/class-recaptcha-admin.php:188
+msgid "Select the language to be used in your reCAPTCHA."
+msgstr "Selecciona el idioma que se usará en tu reCAPTCHA."
+
+#: includes/admin/class-recaptcha-admin.php:187
+msgid "Language"
+msgstr "Idioma"
+
+#: includes/admin/class-recaptcha-admin.php:179
+msgid "Image"
+msgstr "Imagen"
+
+#: includes/admin/class-recaptcha-admin.php:178
+msgid "Audio"
+msgstr "Audio"
+
+#: includes/admin/class-recaptcha-admin.php:176
+#: includes/admin/class-recaptcha-admin.php:280
+msgid "The type of reCAPTCHA to serve."
+msgstr "El tipo de reCAPTCHA que se mostrará."
+
+#: includes/admin/class-recaptcha-admin.php:175
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/admin/class-recaptcha-admin.php:143
+#: includes/admin/class-recaptcha-admin.php:168
+msgid "Keep this a secret. You can get your secret key via <a href=\"https://www.google.com/recaptcha/\">Google reCAPTCHA</a>"
+msgstr "Mantén esto en secreto. Puedes obtener tu clave secreta en <a href=\"https://www.google.com/recaptcha/\">Google reCAPTCHA</a>"
+
+#: includes/admin/class-recaptcha-admin.php:142
+#: includes/admin/class-recaptcha-admin.php:167
+msgid "Secret Key"
+msgstr "Clave secreta"
+
+#: includes/admin/class-recaptcha-admin.php:135
+#: includes/admin/class-recaptcha-admin.php:160
+msgid "You can register your site and generate a site key via <a href=\"https://www.google.com/recaptcha/\">Google reCAPTCHA</a>"
+msgstr "Puedes registrar tu sitio y generar una clave del sitio en <a href=\"https://www.google.com/recaptcha/\">Google reCAPTCHA</a>"
+
+#: includes/admin/class-recaptcha-admin.php:134
+#: includes/admin/class-recaptcha-admin.php:159
+msgid "Site Key"
+msgstr "Clave del sitio"
+
+#: includes/admin/class-recaptcha-admin.php:115
+msgid "Turn on or off your Google reCAPTCHA on your site registration and login forms by default."
+msgstr "Activa o desactiva Google reCAPTCHA por defecto en los formularios de registro y acceso de tu sitio."
+
+#: includes/admin/class-recaptcha-admin.php:114
+msgid "Enable Google reCAPTCHA"
+msgstr "Activar Google reCAPTCHA"
+
+#: includes/admin/class-recaptcha-admin.php:71
+#: includes/admin/class-recaptcha-admin.php:90
+#: includes/admin/class-recaptcha-admin.php:109
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: includes/admin/class-recaptcha-admin.php:44
+msgid "Generate your site and secret key"
+msgstr "Generar tu clave del sitio y tu clave secreta"
+
+#: includes/admin/class-recaptcha-admin.php:43
+msgid "I already have the keys"
+msgstr "Ya tengo las claves"
+
+#: includes/admin/class-recaptcha-admin.php:40
+msgid "Google reCAPTCHA is active on your site. However you need to fill in both your <strong>site key and secret key</strong> to start protecting your site against spam."
+msgstr "Google reCAPTCHA está activado en tu sitio. Sin embargo, necesitas rellenar tu <strong>clave del sitio y tu clave secreta</strong> para comenzar a proteger tu sitio del spam."
+
+#: includes/admin/templates/form/login_recaptcha.php:28
+#: includes/admin/templates/form/register_recaptcha.php:25
+msgid "Yes"
+msgstr "Sí"
+
+#: includes/admin/templates/form/login_recaptcha.php:27
+#: includes/admin/templates/form/register_recaptcha.php:24
+msgid "No"
+msgstr "No"
+
+#: includes/admin/templates/form/login_recaptcha.php:24
+#: includes/admin/templates/form/register_recaptcha.php:21
+msgid "reCAPTCHA status on this form"
+msgstr "Estado de reCAPTCHA en este formulario"
+
+#: includes/admin/templates/form/login_recaptcha.php:16
+#: includes/admin/templates/form/register_recaptcha.php:13
+msgid "Google reCAPTCHA seems to be <strong style=\"color:#C74A4A\">disabled</strong> by default."
+msgstr "Parece que, por defecto, Google reCAPTCHA está <strong style=\"color:#C74A4A\">desactivado</strong>."
+
+#: includes/admin/templates/form/login_recaptcha.php:12
+#: includes/admin/templates/form/register_recaptcha.php:9
+msgid "Google reCAPTCHA seems to be <strong style=\"color:#7ACF58\">enabled</strong> by default."
+msgstr "Parece que, por defecto, Google reCAPTCHA está <strong style=\"color:#7ACF58\">activado</strong>."
+
+#. Author URI of the plugin
+msgid "http://ultimatemember.com/"
+msgstr "http://ultimatemember.com/"
+
+#. Author of the plugin
+msgid "Ultimate Member"
+msgstr "Ultimate Member"
+
+#. Description of the plugin
+msgid "Protect your website from spam and integrate Google reCAPTCHA into your Ultimate Member forms"
+msgstr "Protege tu web del spam e integra Google reCAPTCHA en tus formularios de Ultimate member"
+
+#. Plugin URI of the plugin
+msgid "https://ultimatemember.com/extensions/google-recaptcha/"
+msgstr "https://ultimatemember.com/extensions/google-recaptcha/"
+
+#. Plugin Name of the plugin
+msgid "Ultimate Member - reCAPTCHA"
+msgstr "Ultimate Member - reCAPTCHA"

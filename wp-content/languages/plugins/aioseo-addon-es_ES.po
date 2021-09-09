@@ -1,0 +1,52 @@
+# Translation of AIOSEO - AIOSEO Addon in Spanish (Spain)
+# This file is distributed under the same license as the AIOSEO - AIOSEO Addon package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-01 20:27:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: AIOSEO - AIOSEO Addon\n"
+
+#. Translators: 1 - "AIOSEO Pro"
+#: aioseo-addon/extend/init.php:355
+msgid "Enable the %1$s plugin to manage auto-updates"
+msgstr "Habilite el plugin %1$s para gestionar las actualizaciones automáticas"
+
+#. Translators: 1 - "All in One SEO 4.0.0".
+#: aioseo-addon/extend/init.php:242
+msgid "The following addons cannot be used, because they require %1$s or later to work:"
+msgstr "Las siguientes extensiones no se pueden usar porque requieren %1$s o posterior para funcionar:"
+
+#. Translators: 1 - Opening link tag, 2 - Closing link tag.
+#: aioseo-addon/extend/init.php:219
+msgid "Your site is running an outdated version of PHP that is no longer supported and is not compatible with the following addons (%1$sRead more%2$s for additional information):"
+msgstr "Su sitio ejecuta una versión obsoleta de PHP que ya no está soportada y no es compatible con los siguientes extensiones (%1$sLea más%2$s para obtener información adicional):"
+
+#: aioseo-addon/extend/init.php:302
+msgid "Unlicensed"
+msgstr "Sin licencia"
+
+#. Translators: 1 - The current plan name, 2 - Opening HTML link tag, 3 -
+#. Closing HTML link tag.
+#: aioseo-addon/extend/init.php:307
+msgid "The following addons cannot be used, because your plan level %1$s does not include access to these addons. To upgrade your subscription, please %2$svisit our website%3$s."
+msgstr "La siguientes extensiones no se pueden usar, porque el nivel de su plan %1$s no incluye acceso a esta extensión. Para actualizar su suscripción, %2$svisite nuestra web%3$s."
+
+#. Translators: 1 - Opening HTML link tag, 2 - Closing HTML link tag.
+#: aioseo-addon/extend/init.php:284
+msgid "The following addons cannot be used, because your plan has expired. To renew your subscription, please %1$svisit our website%2$s."
+msgstr "La siguientes extensiones no se pueden usar, porque su plan ha caducado. Para renovar su suscripción, %1$svisite nuestra web%2$s."
+
+#. Translators: 1 - "All in One SEO", 2 - Opening HTML link tag, 3 - Closing
+#. HTML link tag.
+#: aioseo-addon/extend/init.php:264
+msgid "The following addons cannot be used, because they require an active license for %1$s. Your license is missing or has expired. To verify your subscription, please %2$svisit our website%3$s."
+msgstr "La siguientes extensiones no se pueden usar, porque requieren una licencia activa de %1$s. Falta su licencia o ésta ha caducado. Para verificar su suscripción, %2$svisite nuestra web%3$s."
+
+#: aioseo-addon/app/Addon.php:95
+msgid "Plugin is missing required dependencies. Please contact support for more information."
+msgstr "Al plugin le faltan dependencias obligatorias. Por favor, contacte con soporte para más información."

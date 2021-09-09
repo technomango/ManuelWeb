@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"log.min.js",
+"lineCount":6,
+"mappings":"A;;;;;AAOA,GAAsB,WAAtB,GAAI,MAAOA,OAAX,CAEI,IAAIA,OAAS,EAGQ,YAAzB,EAAI,MAAOA,OAAP,CAAcC,GAAlB,GAEID,MAFJ,CAEWC,GAFX,CAEiB,EAFjB,CAKAD,OAAA,CAAOC,GAAP,CAAWC,cAAX,CAA4BC,QAAS,CAACC,CAAD,CACrC,CACCA,CAAA,CAAEC,cAAF,EAEOC,EAAAA,CAAyBC,QAAA,CAASC,cAAT,CAAwB,eAAxB,CAC7BF,EAAA,CAAaG,KAAb,CAAmBC,OAAnB,CAA6B,OAE7B,KAAIC,EAAMX,MAAA,CAAOY,MAAP,CAAcC,UAAd,CAAyB,sBAAzB,CACVP,EAAA,CAAaQ,kBAAb,CAAgC,WAAhC,CAA6C,2BAA7C,CAA8EH,CAA9E,CAAoF,oBAApF,CAEA,KAAA,CAAKI,UAAL,CAAgBN,KAAhB,CAAsBC,OAAtB,CAAgC,MAEhC,OAAO,CAAA,CAXX,CAcAV,OAAA,CAAOY,MAAP,CAAcI,aAAd,CAA4B,QAAS,EACrC,CACIhB,MAAA,CAAOY,MAAP,CAAcK,gBAAd,CAA+B,SAA/B,CAA0C,OAA1C,CAAmDjB,MAAnD,CAA0DC,GAA1D,CAA8DC,cAA9D,CADJ,CADA;",
+"sources":["../../uncompressed/js/solo/log.js"],
+"names":["akeeba","Log","onClickShowLog","akeeba.Log.onClickShowLog","e","preventDefault","iFrameHolder","document","getElementById","style","display","src","System","getOptions","insertAdjacentHTML","parentNode","documentReady","addEventListener"]
+}
